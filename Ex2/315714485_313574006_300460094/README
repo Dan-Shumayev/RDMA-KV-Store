@@ -1,0 +1,10 @@
+315714485,313574006,300460094
+
+Inon Kapln, Rotem Brillant, Gal Sagi
+
+This is the implementation of Ex2 in course 67613.
+
+We submit our results results.ods. 
+
+Note the following: for some unkown reason payload of sizes 512, 1024 give poor performance. We discussed this with Gil and were instructed to ignore.
+Apart from that using RDMA give much higher results then TCP.
