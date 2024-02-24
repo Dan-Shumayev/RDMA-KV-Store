@@ -1,0 +1,4 @@
+Cannot generate into /cs/usr/inonkp/NetworkWorkshop/Ex3/cmake-build-debug
+Cannot read CMakeCache.txt
+
+Please either delete it manually or select another generation directory
